@@ -1,0 +1,13 @@
+# Local secrets
+config.json
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# App outputs
+outputs/
